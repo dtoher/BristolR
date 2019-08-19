@@ -1,0 +1,85 @@
+Bristol R User Group
+========================================================
+author: Deirdre Toher
+date: 2019-08-20
+autosize: true
+
+About me
+========================================================
+
+- Find me [@dtoher](https://twitter.com/dtoher) or [here](https://people.uwe.ac.uk/Person/DeirdreToher).
+- 10 years teaching in UWE Bristol.
+- (Currently) head of Mathematics and Statistics at UWE Bristol.
+- Involved in the [Royal Statistical Society](https://www.rss.org.uk/).
+- Primarily an applied statistician.
+  - works with a lot of medics.
+
+
+Starting Point
+========================================================
+
+```{r Starting, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("Starting_Point.jpg")
+```
+
+Springboard
+========================================================
+
+```{r Springboard, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("Springboard_from_nowhere.jpg")
+```
+
+
+Challenge them!
+========================================================
+
+```{r Challenge, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("Challenge_Image.jpg")
+```
+
+
+Motivation
+========================================================
+```{r Queue, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("Queue.jpg")
+```
+
+Examples of Assignments
+========================================================
+```{r Festival, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("festival_gathering.jpg")
+```
+
+Marking Scheme
+========================================================
+
+Report [40 marks]
+
+R code: 
+-	Exploratory data analysis 						[10 marks]
+- Appropriate modelling techniques employed 			[15 marks]
+- Appropriate commenting throughout the code 			[10 marks]
+- Detailed checking of model assumptions 			[10 marks]
+
+Overall Quality:
+- overall quality of thought and innovation [15 marks]
+
+
+Feedback: use of screen capture
+========================================================
+
+```{r Feedback, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("movies_video.jpg")
+```
+
+
+(Major) Lessons learned
+========================================================
+- The brief matters.
+ - Have you given students room to explore?
+   - Can make for challenging marking.
+- Timing matters.
+ - What do they already know?
+ - Vocabulary is required.
+- Students hate it at the time!
+ - Appreciation comes later.
