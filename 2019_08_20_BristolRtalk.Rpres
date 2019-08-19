@@ -19,14 +19,14 @@ Starting Point
 ========================================================
 
 ```{r Starting, echo=FALSE, out.width = '100%'}
-knitr::include_graphics("Starting_Point.jpg")
+knitr::include_graphics("images/Starting_Point.jpg")
 ```
 
 Springboard
 ========================================================
 
 ```{r Springboard, echo=FALSE, out.width = '100%'}
-knitr::include_graphics("Springboard_from_nowhere.jpg")
+knitr::include_graphics("images/Springboard_from_nowhere.jpg")
 ```
 
 
@@ -34,20 +34,20 @@ Challenge them!
 ========================================================
 
 ```{r Challenge, echo=FALSE, out.width = '100%'}
-knitr::include_graphics("Challenge_Image.jpg")
+knitr::include_graphics("images/Challenge_Image.jpg")
 ```
 
 
 Motivation
 ========================================================
 ```{r Queue, echo=FALSE, out.width = '100%'}
-knitr::include_graphics("Queue.jpg")
+knitr::include_graphics("images/Queue.jpg")
 ```
 
 Examples of Assignments
 ========================================================
 ```{r Festival, echo=FALSE, out.width = '100%'}
-knitr::include_graphics("festival_gathering.jpg")
+knitr::include_graphics("images/festival_gathering.jpg")
 ```
 
 Marking Scheme
@@ -69,17 +69,21 @@ Feedback: use of screen capture
 ========================================================
 
 ```{r Feedback, echo=FALSE, out.width = '100%'}
-knitr::include_graphics("movies_video.jpg")
+knitr::include_graphics("images/movies_video.jpg")
 ```
 
 
 (Major) Lessons learned
 ========================================================
+incremental: true
+
 - The brief matters.
  - Have you given students room to explore?
    - Can make for challenging marking.
+   
 - Timing matters.
  - What do they already know?
  - Vocabulary is required.
+ 
 - Students hate it at the time!
  - Appreciation comes later.
