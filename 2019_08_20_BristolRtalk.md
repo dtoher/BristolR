@@ -18,27 +18,27 @@ About me
 Starting Point
 ========================================================
 
-<img src="Starting_Point.jpg" title="plot of chunk Starting" alt="plot of chunk Starting" width="100%" />
+<img src="images/Starting_Point.jpg" title="plot of chunk Starting" alt="plot of chunk Starting" width="100%" />
 
 Springboard
 ========================================================
 
-<img src="Springboard_from_nowhere.jpg" title="plot of chunk Springboard" alt="plot of chunk Springboard" width="100%" />
+<img src="images/Springboard_from_nowhere.jpg" title="plot of chunk Springboard" alt="plot of chunk Springboard" width="100%" />
 
 
 Challenge them!
 ========================================================
 
-<img src="Challenge_Image.jpg" title="plot of chunk Challenge" alt="plot of chunk Challenge" width="100%" />
+<img src="images/Challenge_Image.jpg" title="plot of chunk Challenge" alt="plot of chunk Challenge" width="100%" />
 
 
 Motivation
 ========================================================
-<img src="Queue.jpg" title="plot of chunk Queue" alt="plot of chunk Queue" width="100%" />
+<img src="images/Queue.jpg" title="plot of chunk Queue" alt="plot of chunk Queue" width="100%" />
 
 Examples of Assignments
 ========================================================
-<img src="festival_gathering.jpg" title="plot of chunk Festival" alt="plot of chunk Festival" width="100%" />
+<img src="images/festival_gathering.jpg" title="plot of chunk Festival" alt="plot of chunk Festival" width="100%" />
 
 Marking Scheme
 ========================================================
@@ -58,16 +58,20 @@ Overall Quality:
 Feedback: use of screen capture
 ========================================================
 
-<img src="movies_video.jpg" title="plot of chunk Feedback" alt="plot of chunk Feedback" width="100%" />
+<img src="images/movies_video.jpg" title="plot of chunk Feedback" alt="plot of chunk Feedback" width="100%" />
 
 
 (Major) Lessons learned
 ========================================================
+incremental: true
+
 - The brief matters.
  - Have you given students room to explore?
    - Can make for challenging marking.
+   
 - Timing matters.
  - What do they already know?
  - Vocabulary is required.
+ 
 - Students hate it at the time!
  - Appreciation comes later.
