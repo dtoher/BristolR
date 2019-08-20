@@ -75,3 +75,24 @@ incremental: true
  
 - Students hate it at the time!
  - Appreciation comes later.
+ 
+ 
+What next?
+========================================================
+incremental: true
+
+- PBL
+ - Problem
+ - Practice
+ - Project
+
+- R sooner.
+- Needs more "messy" data.
+
+What next?
+========================================================
+incremental: true
+
+- Project weeks
+
+<img src="images/groupwork.jpg" title="plot of chunk ProjectWeek" alt="plot of chunk ProjectWeek" height="25%" />
