@@ -87,3 +87,26 @@ incremental: true
  
 - Students hate it at the time!
  - Appreciation comes later.
+ 
+ 
+What next?
+========================================================
+incremental: true
+
+- PBL
+ - Problem
+ - Practice
+ - Project
+
+- R sooner.
+- Needs more "messy" data.
+
+What next?
+========================================================
+incremental: true
+
+- Project weeks
+
+```{r ProjectWeek, echo=FALSE, out.height = '25%'}
+knitr::include_graphics("images/groupwork.jpg")
+```
