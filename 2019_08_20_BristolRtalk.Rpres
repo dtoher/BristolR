@@ -6,13 +6,16 @@ autosize: true
 
 About me
 ========================================================
+left: 80%
 
-- Find me [@dtoher](https://twitter.com/dtoher) or [here](https://people.uwe.ac.uk/Person/DeirdreToher).
+- Find me [@dtoher](https://twitter.com/dtoher) or [https://people.uwe.ac.uk/Person/DeirdreToher](https://people.uwe.ac.uk/Person/DeirdreToher).
 - 10 years teaching in UWE Bristol.
 - (Currently) head of Mathematics and Statistics at UWE Bristol.
 - Involved in the [Royal Statistical Society](https://www.rss.org.uk/).
 - Primarily an applied statistician.
-  - works with a lot of medics.
+ 
+***
+<img width="75%" src="images/me.jpg"/>
 
 
 Starting Point
@@ -110,3 +113,12 @@ incremental: true
 ```{r ProjectWeek, echo=FALSE, out.height = '25%'}
 knitr::include_graphics("images/groupwork.jpg")
 ```
+
+Find me
+=======================================================
+
+Twitter: [@dtoher](https://twitter.com/dtoher)
+
+<img width="70%" src="images/TossUp.jpg"/>
+
+These slides: [https://github.com/dtoher/BristolR](https://github.com/dtoher/BristolR)
